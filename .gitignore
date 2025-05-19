@@ -1,0 +1,4 @@
+__pycache__/
+.pytest_cahce/
+*.txt
+merge.py
