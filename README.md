@@ -97,7 +97,7 @@ Run the main GUI:
 python app_gui.py
 
 Run the live 3D view:
-python live_simulation_pyqt.py
+python live_simulation.py
 
 🚀 Extending the Project
 New guidance algorithm
